@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm WEB DEVELOPER Dhanraj Tikhat</h1>
+<h1 align="center">Hi 👋, I'm FULL STACK DEVELOPER Dhanraj Tikhat</h1>
 
-- 📫 How to reach me **dhanrajtikhat@gmail.com**
+- 📫 How to reach me **tikhatdhanraj1234@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/dhanraj-tikhat-b01387258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/dhanrajbandutikhat" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
